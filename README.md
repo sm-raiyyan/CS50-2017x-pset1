@@ -1,1 +1,2 @@
-All the problem sets that are stipulated in the best course aka CS50!
+# CS50 Pset 1
+This repository contains the problems from Problem Set 1 of CS50x 2017
